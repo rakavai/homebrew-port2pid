@@ -1,4 +1,4 @@
-class Port2Pid < Formula
+class Port2pid < Formula
   desc "A simple cli tool that allows you to find the process ID"
   homepage "https://github.com/rakavai/homebrew-port2pid"
   url "https://github.com/rakavai/homebrew-port2pid/releases/download/v1.0.0/port2pid-macos-x64.tar.gz"
